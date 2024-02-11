@@ -1,0 +1,43 @@
+body {
+    overflow-x: hidden;
+}
+
+img {
+    width: 50px;
+}
+
+.weather-box {
+    background-color: #3a79ff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Weather icon styling (you can replace with actual icons) */
+.weather-icon {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+/* Other weather details */
+.temperature {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.description {
+    font-size: 25px;
+    color: #fff;
+}
+
+.margin {
+    margin-top: 100px
+}
+
+.head-margin {
+    margin-top: 160px;
+    margin-bottom: -80px
+}
